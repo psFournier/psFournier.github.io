@@ -8,4 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-This is me!
